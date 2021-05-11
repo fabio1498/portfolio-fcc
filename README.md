@@ -1,4 +1,6 @@
-❗  Projects done for freeCodeCamp Responsive Web Design Certification. ❗
+❗  Portfolio done for freeCodeCamp Responsive Web Design Certification. ❗
+
+❗  It contains only freeCodeCamp projects. ❗
 
 👀 Take a look here: https://fabio1498.github.io/portfolio/
 
