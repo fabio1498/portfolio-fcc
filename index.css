@@ -428,3 +428,27 @@ nav a:hover {
   flex-direction: row;
   align-items: center;
 }
+#twitter a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#twitter {
+  background: linear-gradient(270deg, #00c3ff, #006eff);
+  background-size: 600% 600%;
+  border-radius: 30px;
+  width: 200px;
+  box-shadow: 5px 10px 18px #53535398;
+  animation: cgcolors 4s ease-in-out infinite;
+}
+#twitter img {
+  width: 50px;
+  vertical-align: middle;
+  margin: 6px;
+  display: flex;
+  flex-direction: row;
+  float: left;
+  border-radius: 30px;
+}
