@@ -439,7 +439,7 @@ nav a:hover {
   background: linear-gradient(270deg, #00c3ff, #006eff);
   background-size: 600% 600%;
   border-radius: 30px;
-  width: 200px;
+  width: 210px;
   box-shadow: 5px 10px 18px #53535398;
   animation: cgcolors 4s ease-in-out infinite;
 }
