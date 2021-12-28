@@ -2,6 +2,6 @@
 
 ❗  It contains only freeCodeCamp projects. ❗
 
-👀 Take a look here: https://fabio1498.github.io/portfolio/
+👀 Take a look here: https://fabio1498.github.io/portfolio-fcc/
 
 🔴 Available also on CodePen: https://codepen.io/Fabio1498/full/xxqxjrw
